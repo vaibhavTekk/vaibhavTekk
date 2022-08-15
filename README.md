@@ -20,4 +20,9 @@
 #### Top Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavTekk&layout=compact&theme=dracula)
 
+# 🔗Links
+- Personal Website : [portfolio.vaibhavtekk.tech](https://portfolio.vaibhavtekk.tech)
+- Linkedin : [www.linkedin.com/in/vaibhav-tekkalur/](https://www.linkedin.com/in/vaibhav-tekkalur/)
+- Instagram : [www.instagram.com/vaibhavtekk/](https://www.instagram.com/vaibhavtekk/)
+
 
