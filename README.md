@@ -1,9 +1,9 @@
 # Hi👋! I'm **Vaibhav Tekkalur**
 
-🚀 I'm a passionate programmer by day movie buff by night.
-🚀 Currently in my sophomore year pursuing **Computer Science and Engineering at VIT Chennai**.
-🚀 Interested in **Full Stack Web Development**
-🚀 Currently Learning **React**, **NextJS** and **Typescript**
+🚀 I'm a passionate programmer by day movie buff by night. <br />
+🚀 Currently in my sophomore year pursuing **Computer Science and Engineering at VIT Chennai**. <br />
+🚀 Interested in **Full Stack Web Development** <br />
+🚀 Currently Learning **React**, **NextJS** and **Typescript** <br />
 
 # 🤹‍♂️ Skills
 ## Programming Languages
