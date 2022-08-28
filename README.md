@@ -17,8 +17,8 @@
 
 # 📈Statistics
 <p align="center"> 
-<img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=vaibhavTekk&show_icons=true&theme=dracula"/>
-<img width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavTekk&layout=compact&theme=dracula" alt="VaibhavTekk" />
+<img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=vaibhavTekk&show_icons=true&theme=gruvbox"/>
+<img width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavTekk&layout=compact&theme=gruvbox" alt="VaibhavTekk" />
 </p>
 
 ![snake gif](https://github.com/vaibhavTekk/vaibhavTekk/blob/output/github-contribution-grid-snake.gif)
