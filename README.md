@@ -5,7 +5,7 @@
 🚀 Interested in **Full Stack Web Development** <br />
 🚀 Currently Learning **React**, **NextJS** and **Docker** <br />
 
-### Check out my website at [https://portfolio.vaibhavtekk.tech/](https://portfolio.vaibhavtekk.tech/)
+### Check out my website at [https://vaibhavtekk.tech/](https://vaibhavtekk.tech/)
 
 # 🤹‍♂️ Skills
 ## Programming Languages
